@@ -1,2 +1,2 @@
-# create-MilvusDB-for-RAG
-create a Milvus DataBase and test LLM model with RAG
+- build_MilvusDB file : 벡터 DB 생성 및 데이터 삽입 코드
+- test_RAG : 데이터 검색 및 RAG 테스트 코드
